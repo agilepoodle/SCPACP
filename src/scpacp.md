@@ -6,13 +6,9 @@
 
 Geek
 
-11 years as a software engineer
+11 years as a software engineer - Aspiring Software Craftsman
 
-Aspiring Software Craftsman
-
-Agile enthusiastic
-
-Nitor Creations
+Agile enthusiastic developer @ Nitor Creations
 
 
 On the web:
@@ -22,5 +18,7 @@ On the web:
 
 ---
 
+# Craftsman?
 
+A (wo)man who practices a craft with great skill.
 
