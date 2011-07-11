@@ -231,6 +231,11 @@ div.slide p {
   text-align: center;
 }
 
+div.small {
+    font-size: 18px;
+    text-align: center;
+}
+
 .slide.far-past {
   display: block;
   margin-left: -2400px;
