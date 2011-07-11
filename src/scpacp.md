@@ -22,3 +22,24 @@ A (wo)man who practices a craft with great skill.
 
 A professional.
 
+---
+
+# Professional developer
+
+Cares.
+
+It is our responsibility to gain trust from the business.
+
+We put our reputation on stake everyday.
+
+<div class="small">Quality, robust, maintainable, ...</div>
+
+---
+
+# Professional developer
+
+Does no harm.
+
+Yes.
+
+No.
