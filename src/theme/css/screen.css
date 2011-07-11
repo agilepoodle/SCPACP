@@ -227,7 +227,8 @@ body.presenter_view div#current_presenter_notes h1 {
 /* Slide styles */
 
 div.slide p {
-  font-size: 20px;
+  font-size: 28px;
+  text-align: center;
 }
 
 .slide.far-past {
