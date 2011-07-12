@@ -20,7 +20,7 @@ Enthusiastic developer @ Nitor Creations
 
 A (wo)man who practices a craft with great skill.
 
-A professional.
+A passionate professional.
 
 ---
 
