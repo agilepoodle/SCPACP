@@ -84,4 +84,44 @@ Automates.
 
 Does not compromise quality. Ever.
 
+---
 
+# Craftsman
+
+Learn.
+
+Curious.
+
+Step outside the box.
+
+Read, watch, engage.
+
+---
+
+# Craftsman
+
+Generalists.
+
+<div class="small">Generalists are <i>curious</i>, specialists are incurious.</div>
+
+---
+
+# Craftsman
+
+Share.
+
+Help.
+
+Take part and engage.
+
+---
+
+# Craftsman
+
+Are humble.
+
+We are not infallible, but aim to be.
+
+We build on the shoulders of giants.
+
+Admit and learn from our mistakes.
