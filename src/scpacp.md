@@ -12,7 +12,9 @@ Aspiring Software Craftsman
 
 Enthusiastic developer @ Nitor Creations
 
-@agilepoodle | http://www.jussimononen.org  
+@agilepoodle | http://www.jussimononen.org
+
+http://nitorcreations.com/
 
 ---
 
@@ -112,7 +114,7 @@ Share.
 
 Help.
 
-Take part and engage.
+Take part and engage the community.
 
 ---
 
