@@ -24,7 +24,7 @@ A passionate professional.
 
 ---
 
-# Professional developer
+# Craftsman
 
 Cares.
 
@@ -32,14 +32,56 @@ It is our responsibility to gain trust from the business.
 
 We put our reputation on stake everyday.
 
-<div class="small">Quality, robust, maintainable, ...</div>
+<div class="small">Quality, robustness, maintainable, ...</div>
+
+We are not just "programmers"
 
 ---
 
-# Professional developer
+# Craftsman
 
 Does no harm.
 
-Yes.
+Is capable and adept at saying No!
 
-No.
+But wants to say Yes!
+
+---
+
+# Craftsman
+
+Practices.
+
+---
+
+# Craftsman
+
+Practices.
+
+---
+
+# Craftsman
+
+Practices.
+
+---
+
+# Craftsman
+
+Practices on her own time, 
+
+because we cannot rely on charity time.
+
+We *perform* at work.
+
+---
+
+# Craftsman
+
+Tests.
+
+Automates.
+
+Does not compromise quality. Ever.
+
+
