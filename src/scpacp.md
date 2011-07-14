@@ -10,7 +10,7 @@ Geek
 
 Aspiring Software Craftsman
 
-Enthusiastic developer @ Nitor Creations
+Enthusiastic Developer @ Nitor Creations
 
 @agilepoodle | http://www.jussimononen.org
 
@@ -26,51 +26,37 @@ A passionate professional.
 
 ---
 
-# Craftsman
+# Ethics
 
-Cares.
+Do no harm.
 
-It is our responsibility to gain trust from the business.
+Is capable and adept at saying No! But wants to say Yes!
 
-We put our reputation on stake everyday.
-
-<div class="small">Quality, robustness, maintainable, ...</div>
-
-We are not just "programmers"
+Estimation.
 
 ---
 
-# Craftsman
-
-Does no harm.
-
-Is capable and adept at saying No!
-
-But wants to say Yes!
-
----
-
-# Craftsman
+# Apprentice
 
 Practices.
 
 ---
 
-# Craftsman
+# Jourenyman
 
 Practices.
 
 ---
 
-# Craftsman
+# Master
 
 Practices.
 
 ---
 
-# Craftsman
+# When?
 
-Practices on her own time, 
+Craftsman practices on her own time, 
 
 because we cannot rely on charity time.
 
@@ -78,7 +64,7 @@ We *perform* at work.
 
 ---
 
-# Craftsman
+# Ensure Quality
 
 Tests.
 
@@ -88,19 +74,19 @@ Does not compromise quality. Ever.
 
 ---
 
-# Craftsman
+# Widen the Horizon
 
 Learn.
 
 Curious.
 
-Step outside the box.
+Step outside the box to see it.
 
-Read, watch, engage.
+Orthogonality.
 
 ---
 
-# Craftsman
+# Knowitall
 
 Generalists.
 
@@ -108,22 +94,67 @@ Generalists.
 
 ---
 
-# Craftsman
+# Community
 
 Share.
 
 Help.
 
-Take part and engage the community.
+Take part and engage.
 
 ---
 
-# Craftsman
+# Humility
 
-Are humble.
+We must be humble (in a correct way). 
 
 We are not infallible, but aim to be.
 
 We build on the shoulders of giants.
 
 Admit and learn from our mistakes.
+
+Review thyself.
+
+---
+
+# Care
+
+It is our responsibility to gain trust from the business.
+
+We put our reputation on stake everyday.
+
+<div class="small">Quality, robustness, maintainable, ...</div>
+
+We are not just "programmers"
+
+Thus, ...
+
+---
+
+# Passion
+
+Fuel.
+
+Everything at 110%.
+
+---
+
+# Participate
+
+Don't wait to be told, ask!
+
+Learn the business.
+
+---
+
+# Are you worth it?
+
+Salary? There is more.
+
+How much value did you produce last year?
+
+Are You a worth investment?
+
+---
+
