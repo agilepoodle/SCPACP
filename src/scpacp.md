@@ -98,6 +98,8 @@ Generalists.
 
 Share.
 
+Mentor.
+
 Help.
 
 Take part and engage.
@@ -112,7 +114,7 @@ We are not infallible, but aim to be.
 
 We build on the shoulders of giants.
 
-Admit and learn from our mistakes.
+Admit and learn from Your mistakes.
 
 Review thyself.
 
@@ -148,13 +150,36 @@ Learn the business.
 
 ---
 
-# Are you worth it?
+# Pragmatism
 
-Salary? There is more.
+Tooling & technology.
 
-How much value did you produce last year?
+Sustainable pace.
 
-Are You a worth investment?
+Zero heroes.
+
+Context.
 
 ---
 
+# Chameleon
+
+At home in *every* situation.
+
+Legacy. Green/Brownfield. Maintenance. Emergencies.
+
+---
+
+# Are you worth it?
+
+Salary? You cost more.
+
+How much value did you produce last year?
+
+Are You a worthy investment?
+
+---
+
+# Craftsman is a worthy investment
+
+I want to be one, do You?
