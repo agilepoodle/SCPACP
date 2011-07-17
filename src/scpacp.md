@@ -42,7 +42,7 @@ Practices.
 
 ---
 
-# Jourenyman
+# Journeyman
 
 Practices.
 
