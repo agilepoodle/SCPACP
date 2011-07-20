@@ -56,7 +56,7 @@ Practices.
 
 # When?
 
-Craftsman practices on her own time, 
+Craftsman practices on his own time, 
 
 because we cannot rely on charity time.
 
