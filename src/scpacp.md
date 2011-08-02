@@ -20,9 +20,11 @@ http://nitorcreations.com/
 
 # Craftsman?
 
-A (wo)man who practices a craft with great skill.
+*craft* - skill in planning, making, or executing
 
-A passionate professional.
+*craft* - an occupation or trade requiring manual dexterity or artistic skill
+
+*craftsman* - one who creates or performs with skill or dexterity
 
 ---
 
@@ -64,13 +66,15 @@ We *perform* at work.
 
 ---
 
-# Ensure Quality
+# Community
 
-Tests.
+Share.
 
-Automates.
+Mentor.
 
-Does not compromise quality. Ever.
+Help.
+
+Take part and engage.
 
 ---
 
@@ -92,17 +96,12 @@ Generalists.
 
 <div class="small">Generalists are <i>curious</i>, specialists are incurious.</div>
 
+
 ---
 
-# Community
+# Specialists
 
-Share.
-
-Mentor.
-
-Help.
-
-Take part and engage.
+We still need to know enough.
 
 ---
 
@@ -159,6 +158,16 @@ Sustainable pace.
 Zero heroes.
 
 Context.
+
+---
+
+# Ensure Quality
+
+Tests.
+
+Automates.
+
+Does not compromise quality. Ever.
 
 ---
 
