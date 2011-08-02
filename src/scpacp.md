@@ -101,7 +101,9 @@ Generalists.
 
 # Specialists
 
-We still need to know enough.
+We still need to know enough
+
+<div class="small">... but we don't lock ourselves in silos.</div>
 
 ---
 
