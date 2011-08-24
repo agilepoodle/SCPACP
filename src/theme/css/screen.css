@@ -42,9 +42,9 @@ div.slide {
   margin-left: -400px;
   left: 50%;
   top: 50%;
-  background: -webkit-gradient(linear, left bottom, left top, from(#64A8D1), to(#fff));
+  background: -webkit-gradient(linear, left bottom, left top, from(#FFFF99), to(#fff));
   background-color: #eee;
-  background: -moz-linear-gradient(bottom, #64A8D1, #fff);
+  background: -moz-linear-gradient(bottom, #FFFF99, #fff);
   -webkit-transition: margin 0.25s ease-in-out;
   -moz-transition: margin 0.25s ease-in-out;
   -o-transition: margin 0.25s ease-in-out;
@@ -295,7 +295,7 @@ header h1, header h2, header h3, header h4, header h5, header h6 {
 img {
   position:fixed;
   bottom: 30px;
-  left: 40%;
+  left: 38%;
 }
 
 header h2:first-child {

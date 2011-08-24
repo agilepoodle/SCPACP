@@ -30,6 +30,8 @@ http://nitorcreations.com/
 
 # The Manifesto
 
+
+
 Not only working software, but also *well-crafted software*
 
 Not only responding to change, but also *steadily adding value*
