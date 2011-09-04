@@ -18,19 +18,7 @@ http://nitorcreations.com/
 
 ---
 
-# Craftsman?
-
-*craft* - skill in planning, making, or executing
-
-*craft* - an occupation or trade requiring manual dexterity or artistic skill
-
-*craftsman* - one who creates or performs with skill or dexterity
-
----
-
 # The Manifesto
-
-
 
 Not only working software, but also *well-crafted software*
 
@@ -44,82 +32,31 @@ That is, in pursuit of the items on the left we have found the items on the righ
 
 ---
 
+# Craftsman?
+
+*craft* - skill in planning, making, or executing
+
+*craft* - an occupation or trade requiring manual dexterity or artistic skill
+
+*craftsman* - one who creates or performs with skill or dexterity
+
+---
+
+# Traits of a craftsman
+
+What are craftsmen like?
+
+---
+
 # Ethics
 
 Do no harm.
 
-Is capable and adept at saying No! But wants to say Yes!
+Is capable and adept at saying *No!* 
+
+But wants to say *Yes!*
 
 Estimation.
-
----
-
-# Apprentice
-
-Practices.
-
----
-
-# Journeyman
-
-Practices.
-
----
-
-# Master
-
-Practices.
-
----
-
-# When?
-
-Craftsman practices on his own time, 
-
-because we cannot rely on charity time.
-
-We *perform* at work.
-
----
-
-# Community
-
-Share.
-
-Mentor.
-
-Help.
-
-Take part and engage.
-
----
-
-# Widen the Horizon
-
-Learn.
-
-Curious.
-
-Step outside the box to see it.
-
-Orthogonality.
-
----
-
-# Knowitall
-
-Generalists.
-
-<div class="small">Generalists are <i>curious</i>, specialists are incurious.</div>
-
-
----
-
-# Specialists
-
-We still need to know enough
-
-<div class="small">... but we don't lock ourselves in silos.</div>
 
 ---
 
@@ -151,6 +88,18 @@ Thus, ...
 
 ---
 
+# Community
+
+Share.
+
+Mentor.
+
+Help.
+
+Take part and engage.
+
+---
+
 # Passion
 
 Fuel.
@@ -164,6 +113,69 @@ Everything at 110%.
 Don't wait to be told, ask!
 
 Learn the business.
+
+---
+
+# We practice
+
+Really. Craftsmen practice.
+
+---
+
+# Apprentice
+
+Practices.
+
+---
+
+# Journeyman
+
+Practices.
+
+---
+
+# Master
+
+Practices.
+
+---
+
+# When?
+
+Craftsman practices on his own time, 
+
+because we cannot rely on charity time.
+
+We *perform* at work.
+
+---
+
+# Widen the Horizon
+
+Learn.
+
+Curious.
+
+Step outside the box to see it.
+
+Orthogonality.
+
+---
+
+# Knowitall
+
+Generalists.
+
+<div class="small">Generalists are <i>curious</i>, specialists are incurious.</div>
+
+
+---
+
+# Specialists
+
+We still need to know enough
+
+<div class="small">... but we don't lock ourselves in silos.</div>
 
 ---
 
@@ -214,3 +226,4 @@ I want to be one, do You?
 ---
 
 ![](images/nitor.png)
+
