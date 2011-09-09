@@ -6,13 +6,15 @@
 
 Geek
 
-11 years as a software engineer
+11+ years as a software engineer
 
 Aspiring Software Craftsman
 
 Enthusiastic Developer @ Nitor Creations
 
-@agilepoodle | http://www.jussimononen.org
+twitter: @agilepoodle 
+
+http://www.jussimononen.org
 
 http://nitorcreations.com/
 
@@ -20,15 +22,7 @@ http://nitorcreations.com/
 
 # The Manifesto
 
-Not only working software, but also *well-crafted software*
-
-Not only responding to change, but also *steadily adding value*
-
-Not only individuals and interactions, but also a *community of professionals*
-
-Not only customer collaboration, but also *productive partnerships*
-
-That is, in pursuit of the items on the left we have found the items on the right to be indispensable.
+![](images/scmanifesto.png)
 
 ---
 
