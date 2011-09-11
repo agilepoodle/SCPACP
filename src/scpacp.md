@@ -26,16 +26,6 @@ http://nitorcreations.com/
 
 ---
 
-# Craftsman?
-
-*craft* - skill in planning, making, or executing
-
-*craft* - an occupation or trade requiring manual dexterity or artistic skill
-
-*craftsman* - one who creates or performs with skill or dexterity
-
----
-
 # Traits of a craftsman
 
 What are craftsmen like?
