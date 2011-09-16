@@ -36,7 +36,7 @@ What are craftsmen like?
 
 Do no harm.
 
-Is capable and adept at saying *No!* 
+Honesty. Is capable and adept at saying *No!* 
 
 But wants to say *Yes!*
 
@@ -110,17 +110,23 @@ Really. Craftsmen practice.
 
 Practices.
 
+![](images/juniors.jpg)
+
 ---
 
 # Journeyman
 
 Practices.
 
+![](images/journeyman.jpg)
+
 ---
 
 # Master
 
 Practices.
+
+![](images/master.jpg)
 
 ---
 
